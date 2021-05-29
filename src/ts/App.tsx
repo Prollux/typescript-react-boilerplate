@@ -1,5 +1,5 @@
 import React, {FC} from 'react'
-import "./styles.scss"
+import "../sass/styles.scss"
 
 const App : FC = () => {
   return (
